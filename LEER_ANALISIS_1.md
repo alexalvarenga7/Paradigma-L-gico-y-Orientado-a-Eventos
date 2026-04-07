@@ -1,4 +1,4 @@
-﻿# Paradigma-L-gico-y-Orientado-a-Eventos
+﻿# Paradigma-Logico
 Análisis y Explicación
 
 Ejercicio 1: Mayoría de Edad
